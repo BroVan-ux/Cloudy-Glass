@@ -1,0 +1,16 @@
+{
+  "name": "cloudy-glass",
+  "version": "1.0.0",
+  "description": "A Figma plugin for glass effects",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "watch": "npm run build -- --watch"
+  },
+  "author": "BroVan",
+  "license": "MIT",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.106.0",
+    "typescript": "^5.7.3"
+  }
+}

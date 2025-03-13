@@ -1,0 +1,9 @@
+{
+  "name": "Cloudy Glass",
+  "id": "1481976796800604708",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "permissions": ["currentuser"]
+} 
