@@ -1,6 +1,8 @@
 # Cloudy Glass - Figma Glass Effect Plugin
 
 ![Cloudy Glass Banner]
+![Cloudy Glass Preview](./screenshots/preview1.png)
+
 
 A professional Figma plugin that provides various glass effect presets for designers to easily apply to their UI elements. Supports multiple design systems including iOS, macOS, visionOS, Windows (Mica, Acrylic, Aero) and more.
 
@@ -30,6 +32,8 @@ A professional Figma plugin that provides various glass effect presets for desig
 - **Aero**: Classic Aero effect for Windows
 
 ## How to Use
+## Screenshots
+![How to use Cloudy Glass](./screenshots/how-to-use.png)
 
 1. Select a rectangle or frame layer in your Figma design
 2. Open the Cloudy Glass plugin
